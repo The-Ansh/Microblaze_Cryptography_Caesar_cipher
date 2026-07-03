@@ -1,0 +1,4 @@
+domain_path: c:\Vitis\MB_crypto\export\MB_crypto\sw\standalone_microblaze_0
+app_src_dir: C:\Xilinx\Vitis\2024.2\data\embeddedsw\lib\sw_apps\hello_world
+template: hello_world
+lang: c

@@ -1,0 +1,16 @@
+{
+  "name": "Basys3_MB_Crypto_engine",
+  "type": "HOST",
+  "platform": "MB_crypto",
+  "domain": "standalone_microblaze_0",
+  "cpuInstance": "microblaze_0",
+  "cpuType": "microblaze",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_microblaze_0",
+  "applicationFlow": "EMBEDDED",
+  "template": "hello_world"
+}

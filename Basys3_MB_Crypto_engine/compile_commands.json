@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Vitis/Basys3_MB_Crypto_engine/build",
+  "command": "C:\\Xilinx\\Vitis\\2024.2\\gnu\\microblaze\\nt\\bin\\mb-gcc.exe -isystem C:/Vitis/MB_crypto/export/MB_crypto/sw/standalone_microblaze_0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/microblaze/nt/x86_64-oesdk-mingw32/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/13.3.0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/microblaze/nt/x86_64-oesdk-mingw32/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/13.3.0/include-fixed -isystem C:/Xilinx/Vitis/2024.2/gnu/microblaze/nt/microblazeeb-xilinx-elf/usr/include  -O2 -mlittle-endian -mxl-soft-mul -mcpu=v11.0 -DSDT  -MMD -MP -specs=C:/Vitis/MB_crypto/export/MB_crypto/sw/standalone_microblaze_0/Xilinx.spec -IC:/Vitis/MB_crypto/export/MB_crypto/sw/standalone_microblaze_0/include -Wall -Wextra      -O0  -g3     -U__clang__ \"-D__FILENAME__='__FILE__'\" -o CMakeFiles\\Basys3_MB_Crypto_engine.elf.dir\\main.c.obj -c C:\\Vitis\\Basys3_MB_Crypto_engine\\src\\main.c",
+  "file": "C:\\Vitis\\Basys3_MB_Crypto_engine\\src\\main.c"
+},
+{
+  "directory": "C:/Vitis/Basys3_MB_Crypto_engine/build",
+  "command": "C:\\Xilinx\\Vitis\\2024.2\\gnu\\microblaze\\nt\\bin\\mb-gcc.exe -isystem C:/Vitis/MB_crypto/export/MB_crypto/sw/standalone_microblaze_0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/microblaze/nt/x86_64-oesdk-mingw32/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/13.3.0/include -isystem C:/Xilinx/Vitis/2024.2/gnu/microblaze/nt/x86_64-oesdk-mingw32/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/13.3.0/include-fixed -isystem C:/Xilinx/Vitis/2024.2/gnu/microblaze/nt/microblazeeb-xilinx-elf/usr/include  -O2 -mlittle-endian -mxl-soft-mul -mcpu=v11.0 -DSDT  -MMD -MP -specs=C:/Vitis/MB_crypto/export/MB_crypto/sw/standalone_microblaze_0/Xilinx.spec -IC:/Vitis/MB_crypto/export/MB_crypto/sw/standalone_microblaze_0/include -Wall -Wextra      -O0  -g3     -U__clang__ \"-D__FILENAME__='__FILE__'\" -o CMakeFiles\\Basys3_MB_Crypto_engine.elf.dir\\platform.c.obj -c C:\\Vitis\\Basys3_MB_Crypto_engine\\src\\platform.c",
+  "file": "C:\\Vitis\\Basys3_MB_Crypto_engine\\src\\platform.c"
+}
+]
