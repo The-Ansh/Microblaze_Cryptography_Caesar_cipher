@@ -1,3 +1,0 @@
-C:/Vitis/Basys3_MB_Crypto_engine/build/CMakeFiles/Basys3_MB_Crypto_engine.elf.dir
-C:/Vitis/Basys3_MB_Crypto_engine/build/CMakeFiles/edit_cache.dir
-C:/Vitis/Basys3_MB_Crypto_engine/build/CMakeFiles/rebuild_cache.dir
